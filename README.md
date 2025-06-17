@@ -4,6 +4,6 @@ In this project, I developed a specialized unit conversion chatbot by fine-tunin
 
 ## Chat with the model!
 
-You can chat with the model [here]([https://github.com/ryanxshah/self-driving-car/tree/main/videos](https://unit-conversion-llm.streamlit.app/)).
+You can chat with the model [here](https://github.com/ryanxshah/self-driving-car/tree/main/videos).
 
 Try asking a question such as "What is 3.2km in miles?".
