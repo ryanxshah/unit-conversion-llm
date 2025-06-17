@@ -1,6 +1,6 @@
 # ConvertAI - Unit Conversion AI Chatbot
 
-In this project, I developed a specialized unit conversion chatbot by fine-tuning Hugging Face’s SmolLM2 model. I designed and implemented a reusable pipeline for dataset resampling and model training, leveraging chain-of-thought prompting, supervised learning, and rejection sampling to enhance accuracy.
+In this project, I developed a specialized unit conversion chatbot by fine-tuning Hugging Face’s SmolLM2 model. Aside from the product itself, another outcome is a reusable pipeline for dataset resampling and model training, which leverages chain-of-thought prompting, supervised fine-tuning, and rejection sampling to enhance accuracy.
 
 ## Chat with the model!
 
